@@ -6,7 +6,6 @@ public class Factorial {
 	/*
 	 * Recursion Assignment (with exceptions added). 
 	 * Author: Mikolaj Wieczorek 
-	 * Due: September 26th, 2019
 	 * 
 	 * This class computes factorial number of a positive integer using the user's
 	 * input value with Scanner.
