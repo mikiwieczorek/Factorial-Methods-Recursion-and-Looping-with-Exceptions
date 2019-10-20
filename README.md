@@ -5,8 +5,9 @@ Computing factorial number of a positive integer using the user's input value wi
 ## Factorial.java contains methods:
 - looping factorial method: using a simple loop way
 - recursive factorial method: using recursion
+- [Factorial.java]()
 
 ## Exceptions used:
-- InputMismatchException: for any value inputed by user different from an int. This exception is imported from java.util.InputMismatchException. 
-- OutOfBounds: for any value inputed by user that exceeds 20. This is a throwable exception created in OutOfBounds.java file.
-- InvalidUserInput: for any value inputed by user that is smaller than 0. This is a throwable exception created in InvalidUserInput.java file.
+- InputMismatchException: for any value inputed by user different from an int. This exception is imported from java.util.InputMismatchException.
+- [OutOfBounds](): for any value inputed by user that exceeds 20. This is a throwable exception created in OutOfBounds.java file.
+- [InvalidUserInput](): for any value inputed by user that is smaller than 0. This is a throwable exception created in InvalidUserInput.java file.
