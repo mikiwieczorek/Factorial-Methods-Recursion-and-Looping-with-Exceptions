@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.InputMismatchException;
 
 public class Factorial {
-
+//test1
 	/*
 	 * Recursion Assignment (with exceptions added). 
 	 * Author: Mikolaj Wieczorek 
